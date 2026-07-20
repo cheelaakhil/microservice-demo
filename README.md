@@ -237,26 +237,11 @@ This project demonstrates:
 - Add Swagger/OpenAPI documentation
 - Centralized logging using ELK Stack
 - Monitoring with Prometheus & Grafana
-
----
-
-# 📌 Resume Highlights
-
-- Designed and developed a **2-service Spring Boot microservices architecture** with independent databases.
-- Implemented **inter-service REST communication** using Spring Cloud OpenFeign.
-- Built **fault-tolerant service communication** with graceful handling of downstream service failures.
-- Applied **Controller–Service–Repository architecture** following Spring Boot best practices.
-- Developed RESTful APIs for order processing and inventory management.
-
 ---
 
 ## 👨‍💻 Author
 
 **Akhil Cheela**
-
-- GitHub: https://github.com/cheelaakhil
-- LinkedIn: *(Add your LinkedIn profile here)*
-
 ---
 
 ## 📄 License
